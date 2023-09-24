@@ -1,0 +1,14 @@
+D:\Projects\C#\Atividade Sistemas Distribuidos\Atv Sistemas Distribuidos\Atv Sistemas Distribuidos\bin\Debug\net7.0\Atv Sistemas Distribuidos.exe
+D:\Projects\C#\Atividade Sistemas Distribuidos\Atv Sistemas Distribuidos\Atv Sistemas Distribuidos\bin\Debug\net7.0\Atv Sistemas Distribuidos.deps.json
+D:\Projects\C#\Atividade Sistemas Distribuidos\Atv Sistemas Distribuidos\Atv Sistemas Distribuidos\bin\Debug\net7.0\Atv Sistemas Distribuidos.runtimeconfig.json
+D:\Projects\C#\Atividade Sistemas Distribuidos\Atv Sistemas Distribuidos\Atv Sistemas Distribuidos\bin\Debug\net7.0\Atv Sistemas Distribuidos.dll
+D:\Projects\C#\Atividade Sistemas Distribuidos\Atv Sistemas Distribuidos\Atv Sistemas Distribuidos\bin\Debug\net7.0\Atv Sistemas Distribuidos.pdb
+D:\Projects\C#\Atividade Sistemas Distribuidos\Atv Sistemas Distribuidos\Atv Sistemas Distribuidos\obj\Debug\net7.0\Atv Sistemas Distribuidos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\Atividade Sistemas Distribuidos\Atv Sistemas Distribuidos\Atv Sistemas Distribuidos\obj\Debug\net7.0\Atv Sistemas Distribuidos.AssemblyInfoInputs.cache
+D:\Projects\C#\Atividade Sistemas Distribuidos\Atv Sistemas Distribuidos\Atv Sistemas Distribuidos\obj\Debug\net7.0\Atv Sistemas Distribuidos.AssemblyInfo.cs
+D:\Projects\C#\Atividade Sistemas Distribuidos\Atv Sistemas Distribuidos\Atv Sistemas Distribuidos\obj\Debug\net7.0\Atv Sistemas Distribuidos.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Atividade Sistemas Distribuidos\Atv Sistemas Distribuidos\Atv Sistemas Distribuidos\obj\Debug\net7.0\Atv Sistemas Distribuidos.dll
+D:\Projects\C#\Atividade Sistemas Distribuidos\Atv Sistemas Distribuidos\Atv Sistemas Distribuidos\obj\Debug\net7.0\refint\Atv Sistemas Distribuidos.dll
+D:\Projects\C#\Atividade Sistemas Distribuidos\Atv Sistemas Distribuidos\Atv Sistemas Distribuidos\obj\Debug\net7.0\Atv Sistemas Distribuidos.pdb
+D:\Projects\C#\Atividade Sistemas Distribuidos\Atv Sistemas Distribuidos\Atv Sistemas Distribuidos\obj\Debug\net7.0\Atv Sistemas Distribuidos.genruntimeconfig.cache
+D:\Projects\C#\Atividade Sistemas Distribuidos\Atv Sistemas Distribuidos\Atv Sistemas Distribuidos\obj\Debug\net7.0\ref\Atv Sistemas Distribuidos.dll
